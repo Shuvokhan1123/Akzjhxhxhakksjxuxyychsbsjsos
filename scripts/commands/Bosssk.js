@@ -15,7 +15,7 @@ module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	let react = event.body.toLowerCase();
 	if(react.includes("malkha") || react.includes("kha") || react.includes("malkha")) {
 		var msg = {
-				body: "বস SK SHAKIL(TOM)আপনার টা ছাড়া কারো টা খাইনা🥵🥵"
+				body: "বস Shuvo XhowDhyrYআপনার টা ছাড়া কারো টা খাইনা🥵🥵"
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("", event.messageID, (err) => {}, true)
