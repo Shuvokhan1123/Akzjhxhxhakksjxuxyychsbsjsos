@@ -7,7 +7,7 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "pagol bot",
+  "BOTNAME": "vodar bot",
   "PREFIX": "/",
   "OPERATOR": [
     "100014896964436",
